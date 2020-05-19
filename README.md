@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Star Wars" src="https://github.com/caducastanha/StarWarsApp/blob/master/src/assets/starwars.png?raw=true"  width="400px" style="border-radius:20px;"/>
+    <img alt="Star Wars" src="https://github.com/caducastanha/StarWarsApp/blob/master/src/assets/starwars.png?raw=true"  width="200px" style="border-radius:20px;"/>
 </h1>
 
 <h3 align="center" >
